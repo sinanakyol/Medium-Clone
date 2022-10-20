@@ -1,6 +1,7 @@
 # Bootstrap-Medium-clone-study
 
-## Flexbox | Grid sistem | Responsive Tasarım  
-optimal düzeyde kullanıldı.
+### with Bootstrap
 
-https://app.patika.dev/courses/bootstrap/klon-calismasi-tek
+#### Flexbox | Grid | Responsive Design
+
+![Medium](ss.png)
