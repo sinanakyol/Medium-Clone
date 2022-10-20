@@ -1,4 +1,4 @@
-# Bootstrap-Medium-clone-study
+# Medium-clone-study
 
 ### with Bootstrap
 
