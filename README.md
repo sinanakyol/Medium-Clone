@@ -1,7 +1,7 @@
 # Medium-clone-study
 
-### with Bootstrap
+*developed using Bootstrap*
 
-#### Flexbox | Grid | Responsive Design
+####  Flexbox | Grid | Responsive Design 
 
 ![Medium](ss.png)
