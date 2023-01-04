@@ -1,4 +1,5 @@
 # Medium-clone-study
+Project Link: https://sinanakyol.github.io/Medium-Clone/
 
 *developed using Bootstrap*
 
